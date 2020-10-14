@@ -16,7 +16,7 @@ public class Car {
 		this.color = "White";
 		this.name = name;
 	}
-	
+
 	public Car(String name, String color) {
 		this.weight = 500;
 		this.color = color;
